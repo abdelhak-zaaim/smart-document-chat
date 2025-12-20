@@ -52,10 +52,6 @@ A sophisticated **Retrieval-Augmented Generation (RAG)** system that enables int
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/RAG-Langchain-OpenAi.git
-   cd RAG-Langchain-OpenAi
-   ```
 
 2. **Create virtual environment**
    ```bash
