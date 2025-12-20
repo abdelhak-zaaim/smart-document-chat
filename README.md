@@ -168,18 +168,4 @@ retriever = vector_store.as_retriever(
 └── 📁 .venv/                    # Virtual environment
 ```
 
-## 🧪 Testing
-
-Run the automated test suite to verify your setup:
-
-```bash
-python test_system.py
-```
-
-This will check:
-- Package imports
-- File structure
-- Python syntax
-- Environment configuration
-- Application startup
 
