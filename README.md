@@ -12,8 +12,8 @@ A sophisticated **Retrieval-Augmented Generation (RAG)** system that enables int
 ### RAG System Architecture
 ![RAG Architecture](media/rag_architecture.png)
 
-### Performance Dashboard
-![Performance Metrics](media/performance_dashboard.png)
+### Application Interface
+![App Screenshot](thumbnail.png)
 
 ## 🌟 Features
 
